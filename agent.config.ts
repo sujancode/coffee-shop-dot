@@ -1,4 +1,4 @@
-import { defineAgent } from "@voice-agent/sdk";
+import { defineAgent } from "polka-cli";
 
 // The front desk of Brew & Bean, a coffee shop: it answers the phone, tells callers the hours,
 // the menu and prices from ./knowledge, and checks today's hours with a tool.
